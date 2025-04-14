@@ -1,0 +1,693 @@
+2025-04-11 11:43:25,842 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:43:25,927 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:43:25,928 - __main__ - ERROR - No DISCORD_TOKEN found in environment variables!
+2025-04-11 11:44:02,788 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:44:03,134 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:44:03,135 - discord.client - INFO - logging in using static token
+2025-04-11 11:44:03,973 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9a15cbeb016d674dd43e526e642c20fa).
+2025-04-11 11:44:06,030 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:44:06,030 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:44:06,040 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:44:06,044 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:44:06,047 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:44:06,049 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:44:06,221 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:45:52,775 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:45:52,775 - discord.client - INFO - logging in using static token
+2025-04-11 11:45:53,441 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 19c13db80e02b9f862491d0a72773293).
+2025-04-11 11:45:55,444 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:45:55,445 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:45:55,449 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:45:55,450 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:45:55,451 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:45:55,452 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:45:55,651 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:46:04,212 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:46:04,581 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:46:04,582 - discord.client - INFO - logging in using static token
+2025-04-11 11:46:05,292 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 68f5cb5a03c6e8986280b066db1f3329).
+2025-04-11 11:46:07,296 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:46:07,297 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:46:07,300 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:46:07,310 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:46:07,312 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:46:07,312 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:46:55,641 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:48:01,636 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:48:02,020 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:48:02,021 - discord.client - INFO - logging in using static token
+2025-04-11 11:48:02,898 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 47fd2feae2668d73adf8b44c5113e26b).
+2025-04-11 11:48:04,902 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:48:04,903 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:48:04,906 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:48:04,908 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:48:04,910 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:48:04,922 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:48:05,076 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:49:08,770 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:49:08,771 - discord.client - INFO - logging in using static token
+2025-04-11 11:49:09,634 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d47d6f85a23fcdd07902f562916a5b70).
+2025-04-11 11:49:11,641 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:49:11,642 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:49:11,644 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:49:11,646 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:49:11,647 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:49:11,657 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:49:11,812 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:50:56,365 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:50:56,366 - discord.client - INFO - logging in using static token
+2025-04-11 11:50:57,077 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a82265c00a7927587d1da642632f24be).
+2025-04-11 11:50:59,081 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:50:59,082 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:50:59,087 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:50:59,089 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:50:59,091 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:50:59,097 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:50:59,255 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:52:34,796 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 11:52:34,797 - discord.client - INFO - logging in using static token
+2025-04-11 11:52:35,508 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 46534485f99d96efffa6fcc72a64b636).
+2025-04-11 11:52:37,535 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 11:52:37,535 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 11:52:37,539 - __main__ - INFO - Loaded extension: automod
+2025-04-11 11:52:37,541 - __main__ - INFO - Loaded extension: logging
+2025-04-11 11:52:37,541 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 11:52:37,544 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 11:52:37,754 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 11:58:33,514 - __main__ - INFO - Bot has been added to a new server: Temple (ID: 1360200282465636382) - Owner: 30ax
+2025-04-11 11:58:33,516 - __main__ - INFO - The guild has 3 members
+2025-04-11 12:00:27,561 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:00:27,993 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:00:27,993 - discord.client - INFO - logging in using static token
+2025-04-11 12:00:28,734 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5c75087e730015604d20cb3a9025155e).
+2025-04-11 12:00:30,747 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:00:30,747 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 12:00:30,752 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:00:30,760 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:00:30,762 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:00:30,770 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:00:30,938 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:00:57,187 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:00:57,187 - discord.client - INFO - logging in using static token
+2025-04-11 12:00:57,947 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2606f03266c87c9ca31cca5ffb08bdd5).
+2025-04-11 12:00:59,951 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:00:59,952 - __main__ - INFO - Connected to 2 guilds
+2025-04-11 12:00:59,955 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:00:59,957 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:00:59,958 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:00:59,962 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:01:30,970 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:02:17,589 - __main__ - INFO - Bot has been added to a new server: Temple (ID: 1360200282465636382) - Owner: 30ax
+2025-04-11 12:02:17,590 - __main__ - INFO - The guild has 3 members
+2025-04-11 12:03:37,614 - __main__ - INFO - Bot has been added to a new server: TRAPPERS (trp) #fg (ID: 1312059246745096192) - Owner: dangeroushlx
+2025-04-11 12:03:37,615 - __main__ - INFO - The guild has 101 members
+2025-04-11 12:05:21,437 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:05:21,761 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:05:21,763 - discord.client - INFO - logging in using static token
+2025-04-11 12:05:24,033 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c3a427221c400813c0d48e7f4913cb3d).
+2025-04-11 12:05:26,059 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:05:26,059 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:05:26,067 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:05:26,070 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:05:26,083 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:05:26,090 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:05:26,300 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:05:59,849 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:05:59,850 - discord.client - INFO - logging in using static token
+2025-04-11 12:06:00,795 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 133feefd85b241daa8a7c41fadeba24a).
+2025-04-11 12:06:02,819 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:06:02,819 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:06:02,821 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:06:02,822 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:06:02,824 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:06:02,830 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:06:02,995 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:07:59,961 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:07:59,961 - discord.client - INFO - logging in using static token
+2025-04-11 12:08:00,638 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ad2ec23e64f829fcff27a607561220b3).
+2025-04-11 12:08:02,652 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:08:02,653 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:08:02,658 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:08:02,661 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:08:02,672 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:08:02,674 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:08:02,837 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:08:20,830 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:08:21,177 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:08:21,178 - discord.client - INFO - logging in using static token
+2025-04-11 12:08:21,986 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c102a87fd3dbbb463542698f91d6dee0).
+2025-04-11 12:08:23,997 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:08:23,997 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:08:23,999 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:08:24,000 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:08:24,003 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:08:24,005 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:09:02,857 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:11:19,815 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:11:19,982 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:11:19,983 - discord.client - INFO - logging in using static token
+2025-04-11 12:11:20,906 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0fc6dc1819890805934dca0d07eadae3).
+2025-04-11 12:11:22,922 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:11:22,923 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:11:22,928 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:11:22,929 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:11:22,949 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:11:22,957 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:11:23,105 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:12:34,357 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:12:34,704 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:12:34,705 - discord.client - INFO - logging in using static token
+2025-04-11 12:12:35,713 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 211d45c41b2eae3d4c06169329f4d916).
+2025-04-11 12:12:37,727 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:12:37,727 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:12:37,731 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:12:37,732 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:12:37,734 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:12:37,736 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:12:37,891 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:12:56,239 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:12:56,240 - discord.client - INFO - logging in using static token
+2025-04-11 12:12:56,945 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b58d6c9ae053843a41ae607c1e6c6533).
+2025-04-11 12:12:58,958 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:12:58,959 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:12:58,962 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:12:58,963 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:12:58,965 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:12:58,967 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:13:37,897 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:13:47,852 - discord.client - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/automod.py", line 285, in on_message
+    await self.check_profanity(message)
+  File "/home/runner/workspace/cogs/automod.py", line 327, in check_profanity
+    await self.apply_punishment(message, violation_count, reason)
+  File "/home/runner/workspace/cogs/automod.py", line 169, in apply_punishment
+    await member.timeout(until, reason=f"Automod: {reason}")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/member.py", line 1038, in timeout
+    await self.edit(timed_out_until=timed_out_until, reason=reason)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/member.py", line 928, in edit
+    raise TypeError(
+TypeError: timed_out_until must be an aware datetime. Consider using discord.utils.utcnow() or datetime.datetime.now().astimezone() for local time.
+2025-04-11 12:17:38,934 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:17:47,157 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:17:47,158 - discord.client - INFO - logging in using static token
+2025-04-11 12:17:48,035 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9d437a7d37764c40adf8849fae072d1d).
+2025-04-11 12:17:50,055 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:17:50,056 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:17:50,060 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:17:50,062 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:17:50,070 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:17:50,076 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:17:50,236 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:21:56,801 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:22:14,501 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:22:14,503 - discord.client - INFO - logging in using static token
+2025-04-11 12:22:15,336 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fcae4bbcd4195b456ee92d79755f9fd9).
+2025-04-11 12:22:17,352 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:22:17,354 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:22:17,358 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:22:17,364 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:22:17,374 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:22:17,382 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:22:17,542 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:22:53,745 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:22:53,746 - discord.client - INFO - logging in using static token
+2025-04-11 12:22:54,802 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 79a300bfe34ed5caaf5fb3befda22c0b).
+2025-04-11 12:22:56,843 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:22:56,843 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:22:56,846 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:22:56,855 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:22:56,856 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:22:56,859 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:22:57,025 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:23:53,600 - discord.client - ERROR - Ignoring exception in on_member_remove
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/logging.py", line 177, in on_member_remove
+    await self.log_to_channel(member.guild, embed)
+  File "/home/runner/workspace/cogs/logging.py", line 20, in log_to_channel
+    if not log_channel and guild.me.guild_permissions.manage_channels:
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'guild_permissions'
+2025-04-11 12:24:10,121 - __main__ - INFO - Created log channel in TRAPPERS (trp) #fg (ID: 1312059246745096192)
+2025-04-11 12:24:10,872 - __main__ - INFO - Bot has been added to a new server: TRAPPERS (trp) #fg (ID: 1312059246745096192) - Owner: dangeroushlx
+2025-04-11 12:24:10,872 - __main__ - INFO - The guild has 101 members
+2025-04-11 12:24:44,260 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:24:44,261 - discord.client - INFO - logging in using static token
+2025-04-11 12:24:44,957 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 964b24322e4113f89173e2940e5aaf51).
+2025-04-11 12:24:46,974 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:24:46,974 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:24:46,976 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:24:46,981 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:24:46,986 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:24:46,991 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:24:47,148 - __main__ - INFO - Synced 0 command(s)
+2025-04-11 12:34:07,243 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:34:07,413 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:34:07,413 - discord.client - INFO - logging in using static token
+2025-04-11 12:34:08,295 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f68874793e699cedd943e1e01326ef09).
+2025-04-11 12:34:10,318 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:34:10,318 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:34:10,320 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:34:10,323 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:34:10,324 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:34:10,339 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:34:10,345 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:34:10,522 - __main__ - INFO - Synced 0 global command(s)
+2025-04-11 12:35:18,810 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:35:18,811 - discord.client - INFO - logging in using static token
+2025-04-11 12:35:19,545 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9c8a2069314c0fcf6dbc200d9cd31e69).
+2025-04-11 12:35:21,560 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:35:21,561 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:35:21,563 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:35:21,567 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:35:21,569 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:35:21,572 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:35:21,582 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:35:21,727 - __main__ - INFO - Synced 0 global command(s)
+2025-04-11 12:35:35,118 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:35:35,119 - discord.client - INFO - logging in using static token
+2025-04-11 12:35:35,866 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 95429bcb9e3507d13c215fcf77f94bd9).
+2025-04-11 12:35:37,882 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:35:37,882 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:35:37,884 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:35:37,886 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:35:37,887 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:35:37,890 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:35:37,901 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:36:16,719 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:36:21,730 - __main__ - INFO - Synced 0 global command(s)
+2025-04-11 12:36:24,893 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:36:24,894 - discord.client - INFO - logging in using static token
+2025-04-11 12:36:25,820 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ff70c43e5f0556a92e930d45effe6a96).
+2025-04-11 12:36:27,835 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:36:27,836 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:36:27,838 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:36:27,839 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:36:27,840 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:36:27,842 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:36:27,850 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:36:27,850 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:36:43,724 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:36:43,725 - discord.client - INFO - logging in using static token
+2025-04-11 12:36:44,578 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4e6003c9badb31b0f11ae32b78cb3632).
+2025-04-11 12:36:46,603 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:36:46,604 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:36:46,605 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:36:46,607 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:36:46,608 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:36:46,611 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:36:46,613 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:36:46,613 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:37:33,739 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:37:33,743 - discord.client - INFO - logging in using static token
+2025-04-11 12:37:34,815 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e7b8f60dd1821c32e0ced213127f4d6e).
+2025-04-11 12:37:36,832 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:37:36,833 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:37:36,835 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:37:36,847 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:37:36,852 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:37:36,860 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:37:36,876 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:37:36,877 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:38:33,142 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:38:33,143 - discord.client - INFO - logging in using static token
+2025-04-11 12:38:34,130 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5b10ac7492db423c80d6110f84aafd28).
+2025-04-11 12:38:36,144 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:38:36,145 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:38:36,146 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:38:36,149 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:38:36,154 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:38:36,159 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:38:36,162 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:38:36,162 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:38:41,336 - __main__ - WARNING - No slash commands detected after 5 seconds - performing fallback sync
+2025-04-11 12:38:41,773 - __main__ - INFO - Fallback sync complete - registered 10 commands
+2025-04-11 12:38:53,611 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:38:54,253 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:38:54,254 - discord.client - INFO - logging in using static token
+2025-04-11 12:38:55,283 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d30d7ec887b55734d50ae465e6b3bd86).
+2025-04-11 12:38:57,297 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:38:57,298 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:38:57,299 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:38:57,301 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:38:57,302 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:38:57,304 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:38:57,306 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:38:57,307 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:39:47,244 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:39:47,245 - discord.client - INFO - logging in using static token
+2025-04-11 12:39:49,474 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 112e3588dab11197098e2300d9912338).
+2025-04-11 12:39:51,494 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:39:51,494 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:39:51,496 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:39:51,498 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:39:51,499 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:39:51,501 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:39:51,509 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 12:39:51,509 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 12:39:51,509 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:39:51,509 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:40:18,519 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:40:18,520 - discord.client - INFO - logging in using static token
+2025-04-11 12:40:19,203 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 695a779bb32e4bb31439f69f320076f4).
+2025-04-11 12:40:21,247 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:40:21,248 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:40:21,250 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:40:21,252 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:40:21,253 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:40:21,257 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:40:21,266 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 12:40:21,267 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 12:40:21,267 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:40:21,267 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:41:00,366 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:41:02,349 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:41:02,352 - discord.client - INFO - logging in using static token
+2025-04-11 12:41:03,152 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ca736d62fdbbf9fd95c0e8369d1cd6bc).
+2025-04-11 12:41:05,196 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:41:05,196 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:41:05,198 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:41:05,200 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:41:05,201 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:41:05,204 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:41:05,206 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 12:41:05,206 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 12:41:05,206 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:41:05,206 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:44:07,166 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:44:26,409 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:44:36,926 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:44:36,926 - discord.client - INFO - logging in using static token
+2025-04-11 12:44:37,700 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b0ffd5588dc9e5d4c28259ae0fd9379d).
+2025-04-11 12:44:39,715 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:44:39,715 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:44:39,719 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:44:39,724 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:44:39,728 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:44:39,740 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:44:39,747 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 12:44:39,747 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 12:44:39,747 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:44:39,747 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 12:46:42,406 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:46:42,833 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 12:46:42,960 - __main__ - INFO - Starting Discord bot...
+2025-04-11 12:46:42,960 - discord.client - INFO - logging in using static token
+2025-04-11 12:46:43,778 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ee586507ee85d21a36d057ed008b10e5).
+2025-04-11 12:46:45,790 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 12:46:45,790 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 12:46:45,792 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 12:46:45,795 - __main__ - INFO - Loaded extension: automod
+2025-04-11 12:46:45,796 - __main__ - INFO - Loaded extension: logging
+2025-04-11 12:46:45,799 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 12:46:45,801 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 12:46:45,801 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 12:46:45,801 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 12:46:45,801 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 13:31:18,950 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 13:36:28,462 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 13:37:58,460 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 13:38:49,005 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:06:12,118 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:07:55,028 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:07:55,127 - __main__ - INFO - Starting Discord bot...
+2025-04-11 20:07:55,128 - discord.client - INFO - logging in using static token
+2025-04-11 20:07:55,987 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a22a152a5dbf376c75d9d654b9b9122a).
+2025-04-11 20:07:58,088 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 20:07:58,088 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 20:07:58,092 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 20:07:58,098 - __main__ - INFO - Loaded extension: automod
+2025-04-11 20:07:58,102 - __main__ - INFO - Loaded extension: logging
+2025-04-11 20:07:58,109 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 20:07:58,112 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 20:07:58,113 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 20:07:58,113 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 20:07:58,113 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-11 20:13:21,280 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:13:48,332 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:14:08,242 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:15:32,397 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:16:57,035 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:17:47,687 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:18:12,809 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:19:34,976 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-11 20:19:35,088 - __main__ - INFO - Starting Discord bot...
+2025-04-11 20:19:35,089 - discord.client - INFO - logging in using static token
+2025-04-11 20:19:36,222 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e45d14318646494f6593755b344ae535).
+2025-04-11 20:19:38,238 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-11 20:19:38,239 - __main__ - INFO - Connected to 3 guilds
+2025-04-11 20:19:38,242 - __main__ - INFO - Loaded extension: autorole
+2025-04-11 20:19:38,248 - __main__ - INFO - Loaded extension: automod
+2025-04-11 20:19:38,253 - __main__ - INFO - Loaded extension: logging
+2025-04-11 20:19:38,260 - __main__ - INFO - Loaded extension: moderation
+2025-04-11 20:19:38,265 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-11 20:19:38,265 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-11 20:19:38,266 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-11 20:19:38,266 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-12 18:27:35,351 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-12 18:27:35,454 - __main__ - INFO - Starting Discord bot...
+2025-04-12 18:27:35,454 - discord.client - INFO - logging in using static token
+2025-04-12 18:27:36,232 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a5fc4f0b125b2aeab03c392407e74de6).
+2025-04-12 18:27:38,294 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-12 18:27:38,294 - __main__ - INFO - Connected to 3 guilds
+2025-04-12 18:27:38,297 - __main__ - INFO - Loaded extension: autorole
+2025-04-12 18:27:38,304 - __main__ - INFO - Loaded extension: automod
+2025-04-12 18:27:38,309 - __main__ - INFO - Loaded extension: logging
+2025-04-12 18:27:38,319 - __main__ - INFO - Loaded extension: moderation
+2025-04-12 18:27:38,323 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-12 18:27:38,324 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-12 18:27:38,324 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-12 18:27:38,324 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-12 19:06:09,654 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-12 19:06:09,765 - __main__ - INFO - Starting Discord bot...
+2025-04-12 19:06:09,766 - discord.client - INFO - logging in using static token
+2025-04-12 19:06:10,520 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f150d4703587a7230901a814d89490b6).
+2025-04-12 19:06:12,673 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-12 19:06:12,673 - __main__ - INFO - Connected to 3 guilds
+2025-04-12 19:06:12,676 - __main__ - INFO - Loaded extension: autorole
+2025-04-12 19:06:12,802 - __main__ - INFO - Loaded extension: automod
+2025-04-12 19:06:12,806 - __main__ - INFO - Loaded extension: logging
+2025-04-12 19:06:12,812 - __main__ - INFO - Loaded extension: moderation
+2025-04-12 19:06:12,816 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-12 19:06:12,817 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-12 19:06:12,817 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-12 19:06:12,817 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-12 19:07:13,614 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-12 19:07:13,762 - __main__ - INFO - Starting Discord bot...
+2025-04-12 19:07:13,764 - discord.client - INFO - logging in using static token
+2025-04-12 19:07:14,476 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3470dce8198e0cb5936c084fc9c2420c).
+2025-04-12 19:07:16,499 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-12 19:07:16,499 - __main__ - INFO - Connected to 3 guilds
+2025-04-12 19:07:16,501 - __main__ - INFO - Loaded extension: autorole
+2025-04-12 19:07:16,503 - __main__ - INFO - Loaded extension: automod
+2025-04-12 19:07:16,505 - __main__ - INFO - Loaded extension: logging
+2025-04-12 19:07:16,507 - __main__ - INFO - Loaded extension: moderation
+2025-04-12 19:07:16,509 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-12 19:07:16,509 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-12 19:07:16,510 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-12 19:07:16,510 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-12 20:33:35,631 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 3470dce8198e0cb5936c084fc9c2420c.
+2025-04-12 20:52:56,078 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 3470dce8198e0cb5936c084fc9c2420c.
+2025-04-12 23:45:43,290 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-12 23:45:43,405 - __main__ - INFO - Starting Discord bot...
+2025-04-12 23:45:43,405 - discord.client - INFO - logging in using static token
+2025-04-12 23:45:44,454 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 93996e42eec30e8f795961c68cb7812c).
+2025-04-12 23:45:46,572 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-12 23:45:46,572 - __main__ - INFO - Connected to 3 guilds
+2025-04-12 23:45:46,574 - __main__ - INFO - Loaded extension: autorole
+2025-04-12 23:45:46,711 - __main__ - INFO - Loaded extension: automod
+2025-04-12 23:45:46,716 - __main__ - INFO - Loaded extension: logging
+2025-04-12 23:45:46,722 - __main__ - INFO - Loaded extension: moderation
+2025-04-12 23:45:46,727 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-12 23:45:46,727 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-12 23:45:46,728 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-12 23:45:46,728 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 00:02:51,124 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 93996e42eec30e8f795961c68cb7812c.
+2025-04-13 00:08:48,033 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 00:08:48,154 - __main__ - INFO - Starting Discord bot...
+2025-04-13 00:08:48,156 - discord.client - INFO - logging in using static token
+2025-04-13 00:08:48,924 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 25f8a971f20dbd9d912632b0c6c0843e).
+2025-04-13 00:08:50,940 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 00:08:50,940 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 00:08:50,943 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 00:08:51,126 - __main__ - INFO - Loaded extension: automod
+2025-04-13 00:08:51,131 - __main__ - INFO - Loaded extension: logging
+2025-04-13 00:08:51,140 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 00:08:51,145 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 00:08:51,145 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 00:08:51,145 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 00:08:51,145 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 00:21:06,285 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 00:21:06,389 - __main__ - INFO - Starting Discord bot...
+2025-04-13 00:21:06,390 - discord.client - INFO - logging in using static token
+2025-04-13 00:21:07,331 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a6231845a5b3d8c18d9f1b483abf245a).
+2025-04-13 00:21:09,352 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 00:21:09,352 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 00:21:09,354 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 00:21:09,459 - __main__ - INFO - Loaded extension: automod
+2025-04-13 00:21:09,464 - __main__ - INFO - Loaded extension: logging
+2025-04-13 00:21:09,472 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 00:21:09,478 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 00:21:09,478 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 00:21:09,478 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 00:21:09,478 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 17:48:14,315 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 17:48:14,461 - __main__ - INFO - Starting Discord bot...
+2025-04-13 17:48:14,462 - discord.client - INFO - logging in using static token
+2025-04-13 17:48:15,210 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1229aa0a2b16142e5f7ee3d47e47cf1c).
+2025-04-13 17:48:17,331 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 17:48:17,332 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 17:48:17,334 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 17:48:17,340 - __main__ - INFO - Loaded extension: automod
+2025-04-13 17:48:17,344 - __main__ - INFO - Loaded extension: logging
+2025-04-13 17:48:17,351 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 17:48:17,356 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 17:48:17,357 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 17:48:17,357 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 17:48:17,357 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 19:19:44,279 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 19:19:44,391 - __main__ - INFO - Starting Discord bot...
+2025-04-13 19:19:44,392 - discord.client - INFO - logging in using static token
+2025-04-13 19:19:45,145 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6d5b80b3aed0f71e31ef37de2920e509).
+2025-04-13 19:19:47,357 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 19:19:47,357 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 19:19:47,360 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 19:19:47,365 - __main__ - INFO - Loaded extension: automod
+2025-04-13 19:19:47,369 - __main__ - INFO - Loaded extension: logging
+2025-04-13 19:19:47,375 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 19:19:47,379 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 19:19:47,379 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 19:19:47,379 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 19:19:47,380 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 19:54:37,193 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6d5b80b3aed0f71e31ef37de2920e509.
+2025-04-13 20:28:00,820 - discord.client - ERROR - Ignoring exception in on_member_join
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/logging.py", line 147, in on_member_join
+    account_age = (datetime.datetime.utcnow() - member.created_at).days
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~
+TypeError: can't subtract offset-naive and offset-aware datetimes
+2025-04-13 21:24:38,170 - discord.client - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/automod.py", line 286, in on_message
+    await self.check_profanity(message)
+  File "/home/runner/workspace/cogs/automod.py", line 328, in check_profanity
+    await self.apply_punishment(message, violation_count, reason)
+  File "/home/runner/workspace/cogs/automod.py", line 151, in apply_punishment
+    await message.delete()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/message.py", line 1304, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/http.py", line 758, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-04-13 21:25:33,606 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6d5b80b3aed0f71e31ef37de2920e509.
+2025-04-13 21:34:49,980 - discord.client - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/automod.py", line 286, in on_message
+    await self.check_profanity(message)
+  File "/home/runner/workspace/cogs/automod.py", line 328, in check_profanity
+    await self.apply_punishment(message, violation_count, reason)
+  File "/home/runner/workspace/cogs/automod.py", line 151, in apply_punishment
+    await message.delete()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/message.py", line 1304, in delete
+    await self._state.http.delete_message(self.channel.id, self.id)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/http.py", line 758, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-04-13 22:19:01,825 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 6d5b80b3aed0f71e31ef37de2920e509.
+2025-04-13 23:16:07,270 - discord.gateway - WARNING - Shard ID None has stopped responding to the gateway. Closing and restarting.
+2025-04-13 23:16:11,470 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-04-13 23:16:16,843 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5b479c5f50e882cffc110751006da88b).
+2025-04-13 23:16:18,881 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 23:16:18,881 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 23:16:18,888 - __main__ - ERROR - Failed to load extension autorole: Extension 'cogs.autorole' is already loaded.
+2025-04-13 23:16:18,888 - __main__ - ERROR - Failed to load extension automod: Extension 'cogs.automod' is already loaded.
+2025-04-13 23:16:18,888 - __main__ - ERROR - Failed to load extension logging: Extension 'cogs.logging' is already loaded.
+2025-04-13 23:16:18,888 - __main__ - ERROR - Failed to load extension moderation: Extension 'cogs.moderation' is already loaded.
+2025-04-13 23:16:18,888 - __main__ - ERROR - Failed to load extension slash_commands: Extension 'cogs.slash_commands' is already loaded.
+2025-04-13 23:16:18,888 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 23:16:18,889 - cogs.slash_commands - INFO - Preparing to sync these commands to Discord:
+2025-04-13 23:16:19,291 - cogs.slash_commands - INFO - Successfully synced 0 slash commands to Discord!
+2025-04-13 23:16:19,293 - cogs.slash_commands - WARNING - No commands were synced. This might be because:
+2025-04-13 23:16:19,293 - cogs.slash_commands - WARNING - 1. Discord API rate limits (try again in a few minutes)
+2025-04-13 23:16:19,293 - cogs.slash_commands - WARNING - 2. The bot doesn't have the applications.commands scope
+2025-04-13 23:16:19,293 - cogs.slash_commands - WARNING - 3. There are issues with the command definitions
+2025-04-13 23:16:24,075 - __main__ - WARNING - No slash commands detected after 5 seconds - performing fallback sync
+2025-04-13 23:43:04,807 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 23:43:04,897 - __main__ - INFO - Starting Discord bot...
+2025-04-13 23:43:04,898 - discord.client - INFO - logging in using static token
+2025-04-13 23:43:05,555 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 728fcae6207dbcbbb0f72cec1a4285b7).
+2025-04-13 23:43:07,573 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 23:43:07,573 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 23:43:07,577 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 23:43:07,693 - __main__ - INFO - Loaded extension: automod
+2025-04-13 23:43:07,697 - __main__ - INFO - Loaded extension: logging
+2025-04-13 23:43:07,702 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 23:43:07,706 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 23:43:07,706 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 23:43:07,706 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 23:43:07,706 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 23:43:12,886 - __main__ - WARNING - No slash commands detected after 5 seconds - performing fallback sync
+2025-04-13 23:43:13,408 - __main__ - INFO - Fallback sync complete - registered 10 commands
+2025-04-13 23:53:38,155 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 23:53:38,260 - __main__ - INFO - Starting Discord bot...
+2025-04-13 23:53:38,261 - discord.client - INFO - logging in using static token
+2025-04-13 23:53:39,022 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d6ff3dec09a68e34876f0917015f2fef).
+2025-04-13 23:53:41,043 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 23:53:41,043 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 23:53:41,050 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 23:53:41,129 - __main__ - INFO - Loaded extension: automod
+2025-04-13 23:53:41,133 - __main__ - INFO - Loaded extension: logging
+2025-04-13 23:53:41,139 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 23:53:41,143 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 23:53:41,143 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 23:53:41,143 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 23:53:41,143 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-13 23:58:25,382 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-13 23:58:25,508 - __main__ - INFO - Starting Discord bot...
+2025-04-13 23:58:25,509 - discord.client - INFO - logging in using static token
+2025-04-13 23:58:26,198 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3887f1b9eaa936b53e85e0ecec859419).
+2025-04-13 23:58:28,218 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-13 23:58:28,218 - __main__ - INFO - Connected to 3 guilds
+2025-04-13 23:58:28,219 - __main__ - INFO - Loaded extension: autorole
+2025-04-13 23:58:28,221 - __main__ - INFO - Loaded extension: automod
+2025-04-13 23:58:28,222 - __main__ - INFO - Loaded extension: logging
+2025-04-13 23:58:28,225 - __main__ - INFO - Loaded extension: moderation
+2025-04-13 23:58:28,227 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-13 23:58:28,227 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-13 23:58:28,228 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-13 23:58:28,228 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
+2025-04-14 00:19:58,708 - __main__ - INFO - Created log channel in Temple (ID: 1361125432904388648)
+2025-04-14 00:19:59,732 - __main__ - INFO - Bot has been added to a new server: Temple (ID: 1361125432904388648) - Owner: xvxvxvvxvxvxvxvxv
+2025-04-14 00:19:59,732 - __main__ - INFO - The guild has 4 members
+2025-04-14 00:23:26,545 - discord.client - ERROR - Ignoring exception in on_member_join
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/runner/workspace/cogs/logging.py", line 147, in on_member_join
+    account_age = (datetime.datetime.utcnow() - member.created_at).days
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~
+TypeError: can't subtract offset-naive and offset-aware datetimes
+2025-04-14 00:32:38,503 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-14 00:32:38,643 - __main__ - INFO - Starting Discord bot...
+2025-04-14 00:32:38,643 - discord.client - INFO - logging in using static token
+2025-04-14 00:32:39,415 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 51be16836cff0a75709ba472b6c96f25).
+2025-04-14 00:32:41,439 - __main__ - INFO - Bot is ready! Logged in as Temple#3859 (ID: 1360100246767665194)
+2025-04-14 00:32:41,439 - __main__ - INFO - Connected to 4 guilds
+2025-04-14 00:32:41,441 - __main__ - INFO - Loaded extension: autorole
+2025-04-14 00:32:41,448 - __main__ - INFO - Loaded extension: automod
+2025-04-14 00:32:41,452 - __main__ - INFO - Loaded extension: logging
+2025-04-14 00:32:41,459 - __main__ - INFO - Loaded extension: moderation
+2025-04-14 00:32:41,463 - cogs.slash_commands - INFO - Registering commands with the command tree
+2025-04-14 00:32:41,463 - cogs.slash_commands - INFO - Found 10 slash command methods to register
+2025-04-14 00:32:41,463 - __main__ - INFO - Loaded extension: slash_commands
+2025-04-14 00:32:41,463 - __main__ - INFO - Command syncing will be handled by the slash_commands cog
